@@ -1,2 +1,2 @@
-# ansible-packer
+# Ansible Packer
 Install Packer with Ansible
