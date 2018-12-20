@@ -11,4 +11,3 @@ trim_trailing_whitespace = true
 
 [*.yml]
 insert_final_newline = false
-
